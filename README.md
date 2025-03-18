@@ -8,7 +8,7 @@ This project explores the identification of cyberbullying using a machine learni
 
 Cyberbullying is a growing issue in the digital age, significantly impacting mental health and online safety. The dataset contains social media text data annotated for cyberbullying detection.
 
-## Purpose:
+## Purpose
 To classify social media texts as containing cyberbullying or not, providing insights into patterns and helping build tools for safer online communities.
 
 ## Contents
@@ -19,7 +19,7 @@ To classify social media texts as containing cyberbullying or not, providing ins
 * Evaluation: Evaluate model performance using precision, recall, and F1-score.
 * Insights: Identify patterns in cyberbullying behavior.
 
-##Technologies Used
+## Technologies Used
 
 * Python: pandas, NumPy, scikit-learn, NLTK, Matplotlib, Seaborn.
 * Notebook Platform: Google Colab.
